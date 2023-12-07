@@ -1,6 +1,10 @@
 # Colorized Java
 
-This is a really simple library that I made to print colored text in Java console.
+This is a really simple library that I developed to print colored text whitin the Java console.
+
+The need appears while I was working on an assigment and I wanted to print colored text. I did not find any library that does this in the first searches on the Internet, so I decided to create it myself.
+
+So know, instead of surfing the web for ANSI codes every time I need colored text for Java, I have got this library ready to go. Keeping it stored is a no-brainer, no need spend time searching for ANSI codes online.
 
 ## Usage
 
@@ -29,3 +33,8 @@ public class Example{
 }
 ```
 
+## More
+
+Feel free to download even the .jar or the source code.
+
+If you like it leave a :start:
