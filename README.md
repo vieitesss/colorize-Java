@@ -37,4 +37,4 @@ public class Example{
 
 Feel free to download even the .jar or the source code.
 
-If you like it leave a :start:
+If you like it leave a ⭐️
