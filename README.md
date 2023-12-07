@@ -6,11 +6,8 @@ This is a really simple library that I made to print colored text in Java consol
 
 1. Download the .jar
 
-<!--
-#TODO: change url to the correct one
--->
 ```shell
-wget htts://github.com/vieitesss/colorize-Java/Color.java
+wget https://github.com/vieitesss/colorize-Java/blob/main/Color.jar
 ```
 
 2. Add the library to your classpath.
