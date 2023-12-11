@@ -13,11 +13,16 @@ public enum Color {
 
   public final String code;
 
-  private Color(String code) {
+  Color(String code) {
     this.code = code;
   }
 
-  public static String colorize(Color color, String message) {
+  public static String colorize(Color color, Object message) {
     return color.code + message + Color.COLOR_RESET.code;
   }
+
+  public String colorize(Object message) {
+    return this.code + message + Color.COLOR_RESET.code;
+  }
+
 }
